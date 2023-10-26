@@ -1,0 +1,4 @@
+﻿  Module_34.7.cpp
+C:\Users\a.y.sirotyonkov\Desktop\Module_34.7\Module_34.7.cpp(24,15): error C2607: сбой статического утверждения
+C:\Users\a.y.sirotyonkov\Desktop\Module_34.7\Module_34.7.cpp(24,15): message : концепция "ComplexConcept<bar>" вычислена как false
+C:\Users\a.y.sirotyonkov\Desktop\Module_34.7\Module_34.7.cpp(8,6): message : ограничение не было выполнено
